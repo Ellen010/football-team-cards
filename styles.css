@@ -29,11 +29,25 @@ footer {
   color: var(--white);
   font-weight: heavy;
 }
-
+.title-container {
+  position: relative; 
+  display: inline-block;
+}
 .title {
+    position: relative;
+  z-index: 2;
   margin: 1.3rem 0;
 }
-
+.logo {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  height:180px;
+  width: 150px;
+  opacity: 0.8;
+  z-index: 1;
+}
 .team-stats {
   display: flex;
   justify-content: space-around;
