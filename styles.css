@@ -22,12 +22,10 @@ body {
   padding: 10px;
 }
 
-.title,
 .options-label,
 .team-stats,
 footer {
   color: var(--white);
-  font-weight: heavy;
 }
 .title-container {
   position: relative; 
@@ -37,6 +35,7 @@ footer {
     position: relative;
   z-index: 2;
   margin: 1.3rem 0;
+  color: var(--black);
 }
 .logo {
   position: absolute;
