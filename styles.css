@@ -32,11 +32,13 @@ footer {
   display: inline-block;
 }
 .title {
-    position: relative;
+  position: relative;
   z-index: 2;
   margin: 1.3rem 0;
   color: var(--black);
-  font:5rem;
+   font-weight: bold;
+  font:8rem;
+  text-transform: uppercase; 
 }
 .logo {
   position: absolute;
