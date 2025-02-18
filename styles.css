@@ -36,7 +36,7 @@ footer {
   z-index: 2;
   margin: 1.3rem 0;
   color: var(--black);
-  font:3rem;
+  font:5rem;
 }
 .logo {
   position: absolute;
