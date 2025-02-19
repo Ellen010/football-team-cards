@@ -39,7 +39,7 @@ footer {
    font-weight: bold;
   font: 5rem;
   text-transform: uppercase; 
-   -webkit-text-stroke: 3px darkblue;
+   -webkit-text-stroke: 1px darkblue;
 }
 .logo {
   position: absolute;
