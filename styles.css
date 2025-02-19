@@ -39,7 +39,7 @@ footer {
    font-weight: bold;
   font: 6rem;
   text-transform: uppercase; 
-   -webkit-text-stroke: 1px darkblue;
+   -webkit-text-stroke: 0.5px blue;
 }
 @media (max-width: 1024px) { 
   .title {
