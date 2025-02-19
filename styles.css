@@ -37,9 +37,26 @@ footer {
   margin: 1.3rem 0;
   color: var(--white);
    font-weight: bold;
-  font: 5rem;
+  font: 6rem;
   text-transform: uppercase; 
    -webkit-text-stroke: 1px darkblue;
+}
+@media (max-width: 1024px) { 
+  .title {
+    font-size: 4rem;
+  }
+}
+
+@media (max-width: 768px) { 
+  .title {
+    font-size: 3rem;
+  }
+}
+
+@media (max-width: 480px) {
+  .title {
+    font-size: 2rem;
+  }
 }
 .logo {
   position: absolute;
