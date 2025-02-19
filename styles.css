@@ -39,6 +39,11 @@ footer {
    font-weight: bold;
   font: 5rem;
   text-transform: uppercase; 
+  text-shadow: 
+    -2px -2px 0 darkblue,  
+     2px -2px 0 darkblue,
+    -2px  2px 0 darkblue,  
+     2px  2px 0 darkblue;
 }
 .logo {
   position: absolute;
