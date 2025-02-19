@@ -37,7 +37,7 @@ footer {
   margin: 1.3rem 0;
   color: var(--white);
    font-weight: bold;
-  font: 30px;
+  font: 50px;
   text-transform: uppercase; 
 }
 .logo {
@@ -47,7 +47,7 @@ footer {
   transform: translate(-50%, -50%);
   height:180px;
   width: 150px;
-  opacity: 0.5;
+  opacity: 0.3;
   z-index: 1;
 }
 .team-stats {
